@@ -1,1 +1,1 @@
-# awet-gads-2020-projects
+# Awet's GADS- 2020  Project submissions
